@@ -21,6 +21,7 @@ their service.
 
 ====================================================================
 
+
 Jedds Tree Care is a complete yard service including branch trimming, pruning, 
 stump removal and emergency tree removal. We offer same day emergency service 24/7. 
 Jedds operates out of East Lansing, MI, but also serves the surrounding counties 
@@ -36,7 +37,6 @@ Jedds Tree Care
 Lansing, MI 48930 
 email:	jeddstree@example.com
 phone:	517.555.4811
-
 ====================================================================
 
 Jedds Tree Care Services
